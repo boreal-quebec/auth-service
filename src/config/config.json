@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "adfs879fayd9138ud239dh139dh1j39shj120d93dh1329d",
+    "database": "baluchon",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
